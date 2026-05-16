@@ -7,3 +7,4 @@
     <img src="https://trophy.benkou.dev/?username=equalled&theme=aura" alt="GitHub Trophy"/>
   </a>
 </p>
+ww w
