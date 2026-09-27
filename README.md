@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/736x/03/4e/2b/034e2b8d8cf792a166332f576aa3d887.jpg" alt="banner" width="100%" />
+</p>
 
-<!--
-**equalled/equalled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center">hi, i'm efan</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br>
+  <p><strong>"anticheat bypass scientist and experienced java developer."</strong></p>
+</div>
+
+
+<h3 align="center">languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,ts,html,css" alt="Java, C++, TypeScript, HTML5, CSS" />
+</p>
