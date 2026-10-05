@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">hi, i'm efan</h2>
+<h2 align="center">hi, i'm x</h2>
 
 <div align="center">
   <br>
