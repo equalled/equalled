@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/03/4e/2b/034e2b8d8cf792a166332f576aa3d887.jpg" alt="Banner" width="75%" />
+<img src="https://i.pinimg.com/736x/03/4e/2b/034e2b8d8cf792a166332f576aa3d887.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">hi, i'm efan</h1>
