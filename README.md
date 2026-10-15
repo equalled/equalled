@@ -3,7 +3,7 @@
     src="https://i.pinimg.com/736x/03/4e/2b/034e2b8d8cf792a166332f576aa3d887.jpg"
     alt="Banner"
     width="75%"
-    height="150"
+    height="200"
     style="object-fit: cover;"
   />
 </p>
