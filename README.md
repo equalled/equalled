@@ -9,7 +9,6 @@
   <br>
   <p><strong>"anticheat bypass scientist and experienced java developer."</strong></p>
 </div>
-
 <div align="center">
   <br>
   <p><strong>"Embracing and expressing resilience towards uncertainty, may just yield promise."</></p>
