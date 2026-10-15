@@ -3,7 +3,7 @@
     src="https://files.offshore.cat/api/file/e1d500be-f194-4063-ad5c-36c59524ccf3"
     alt="Profile banner"
     width="80%"
-    height="150"
+    height="500"
   />
 </p>
 
