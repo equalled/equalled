@@ -1,10 +1,9 @@
 <p align="center">
   <img
     src="https://files.offshore.cat/api/file/e1d500be-f194-4063-ad5c-36c59524ccf3"
-    alt="Banner"
-    width="75%"
-    height="200"
-    style="object-fit: cover;"
+    alt="Profile banner"
+    width="80%"
+    height="150"
   />
 </p>
 
