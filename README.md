@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://i.pinimg.com/736x/03/4e/2b/034e2b8d8cf792a166332f576aa3d887.jpg"
+    src="https://files.offshore.cat/api/file/e1d500be-f194-4063-ad5c-36c59524ccf3"
     alt="Banner"
     width="75%"
     height="200"
