@@ -14,8 +14,3 @@
 <p align="center">
 <em>"Embracing and expressing resilience towards uncertainty may just yield promise."</em>
 </p>
-
-<p align="center">
-<img src="https://views-counter.vercel.app/badge?pageId=equalled&leftColor=1e232a&rightColor=d2dcf6&type=total&label=Viewers&style=none" alt="Views Counter" />
-</p>
- 
