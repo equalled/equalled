@@ -7,7 +7,7 @@
 <h3 align="center">languages</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,ts,html,css" alt="Java, C++, TypeScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css" alt="Java, C++, HTML, CSS" />
 </p>
 
 <p align="center">
