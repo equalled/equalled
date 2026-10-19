@@ -1,3 +1,4 @@
-<p align="center">
-<em>"Embracing and expressing resilience towards uncertainty may just yield promise."</em>
-</p>
+<div align="center">
+  <br>
+  <p><strong>"Embracing and expressing resilience towards uncertainty, may just yield promise."</strong></p>
+</div>
