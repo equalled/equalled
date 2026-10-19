@@ -4,12 +4,6 @@
 <strong>anti-cheat bypass scientist & experienced Java developer</strong>
 </p>
 
-<h3 align="center">languages</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,cpp,java,js" alt="HTML, C++, Java, JavaScript" />
-</p>
-
 
 <p align="center">
 <em>"Embracing and expressing resilience towards uncertainty may just yield promise."</em>
